@@ -16,4 +16,5 @@ else{
 }
 
 
-// Export the Connection
+//Export the Connection
+ module.exports=connection
